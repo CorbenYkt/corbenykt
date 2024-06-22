@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Reacts.JS projects**
 
-- 🌱 I’m currently learning **in Weltec for my master's degree**
+- 🌱 I’m currently studying **in Weltec for my master's degree**
 
 - 👯 I’m looking to collaborate on **machine learning project**
 
-- 🤝 I’m looking for help with **LLM**
+- 🤝 I’m looking for new connections through **LinkedIn**
 
 - ⚡ Fun fact **I have a doggie Fozzy**
 
