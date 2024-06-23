@@ -14,6 +14,9 @@
 - 🤝 I’m looking for new connections through **LinkedIn**
 
 - ⚡ Fun fact **I have a doggie Fozzy**
+- 
+<p align="left">Here you can download my CV: <a href='https://corbenykt.github.io'>https://corbenykt.github.io</a></p>
+<p align="left">Cover letter: <a href='https://tinyurl.com/4j3fuhjf</a>'>https://tinyurl.com/4j3fuhjf</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
