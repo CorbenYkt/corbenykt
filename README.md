@@ -16,7 +16,7 @@
 - ⚡ Fun fact **I have a doggie Fozzy**
 
 <p align="left">Here you can download my CV: <a href='https://corbenykt.github.io'>https://corbenykt.github.io</a></p>
-<p align="left">Cover letter: <a href='https://docs.google.com/document/d/1FBogG0ciehWtblRH1gZX4GoEeAfHB9NJskCjd_IYNnw/edit'>https://tinyurl.com/4j3fuhjf</a></p>
+<p align="left">Cover letter: <a href='[https://docs.google.com/document/d/1FBogG0ciehWtblRH1gZX4GoEeAfHB9NJskCjd_IYNnw/edit](https://docs.google.com/document/d/1O_5Ez0s8jIDEP1FmmGBQ293e3zC6CZPD9-Qm3f6ucKk/edit?usp=sharing)'>Read</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
