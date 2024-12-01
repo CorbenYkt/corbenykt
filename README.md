@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=corbenykt" alt="corbenykt" /></a> </p>
 
-- 🔭 I’m currently using with **MERN stack (Mongo.DB + Express + ReactJS + Node.js**
+- 🔭 I’m currently using with **MERN stack (Mongo.DB + Express + ReactJS + Node.js)**
 
 - 🌱 Finished study in **Whitireia and WelTec for my master's degree**
 
