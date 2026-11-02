@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dmitrii Artemev</h1>
 <h3 align="center">A passionate fullstack developer from Yakutia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=corbenykt&label=Profile%20views&color=0e75b6&style=flat" alt="corbenykt" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=corbenykt" alt="corbenykt" /></a> </p>
 
 - 🔭 I’m currently using with **MERN stack (Mongo.DB + Express + ReactJS + Node.js)**
